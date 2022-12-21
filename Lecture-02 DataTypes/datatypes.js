@@ -4,7 +4,7 @@ const str = "Hello World";
 const b = true;
 const employee = {
     firstName: "Anirach",
-    lastName: "Mongkhwan",
+    lastName: "Mingkhwan",
 };
 
 function sayHello(person) {
