@@ -4,4 +4,4 @@ const announcements = finalParticipants.map((member) => {
     return member + " joined the cotest.";
 });
 
-console.log(annoucements);
+console.log(announcements);

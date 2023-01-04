@@ -10,7 +10,7 @@
 //Let's define a simple object (with no properties or methods)
 const blank = {};
 console.log("Blank Type:",typeof blank);
-console.log("Blank value",Blank);
+console.log("Blank value",blank);
 
 
 /*
