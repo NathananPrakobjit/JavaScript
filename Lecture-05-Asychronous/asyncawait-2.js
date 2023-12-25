@@ -5,12 +5,12 @@ function promiseTimeout(ms) {
 }
 
 async function longRunningOperation() {
-    // logic
+    //logic
     return 42;
 }
 
 async function run() {
-    // logic
+    //logic
     console.log("Start!!");
     await promiseTimeout(2000);
     //try to take await out and see
